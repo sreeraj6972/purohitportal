@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rituals Made Easy | Marketplace for Hindu Rituals</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+
+<header class="header fade-in">
+  <img src="logo.png" alt="Rituals Made Easy Logo" class="logo"/>
+  <h1>Rituals Made Easy</h1>
+  <p class="tagline">Marketplace for Hindu Rituals</p>
+</header>
+
+<section class="hero slide-up">
+  <h2>Sacred Rituals.<br/>Simplified for Modern Life.</h2>
+  <p>
+    From puja essentials to trusted ritual services —
+    everything you need, delivered with devotion.
+  </p>
+
+  <div class="cta-group">
+    <a href="#signup" class="cta primary">Get Early Access</a>
+    <a href="#vendors" class="cta secondary">Join as Vendor</a>
+  </div>
+</section>
+
+<section class="features">
+  <div class="feature fade-in">
+    <h3>🪔 Puja Essentials</h3>
+    <p>Carefully curated samagri kits for daily puja, festivals & special rituals.</p>
+  </div>
+
+  <div class="feature fade-in">
+    <h3>🛕 Trusted Sources</h3>
+    <p>Products sourced from temple towns, traditional stores & artisans.</p>
+  </div>
+
+  <div class="feature fade-in">
+    <h3>📿 Ritual Services</h3>
+    <p>Book purohits, homams, and ceremonies with confidence.</p>
+  </div>
+</section>
+
+<section class="why">
+  <h2>Why Rituals Made Easy?</h2>
+  <ul>
+    <li>✔ Authentic & tradition-first</li>
+    <li>✔ Transparent pricing</li>
+    <li>✔ One platform for products & services</li>
+    <li>✔ Built for families & elders too</li>
+  </ul>
+</section>
+
+<section class="signup" id="signup">
+  <h2>Launching Soon</h2>
+  <p>Be the first to experience a simpler way to perform rituals.</p>
+
+  <form>
+    <input type="email" placeholder="Enter your email" required/>
+    <button type="submit">Notify Me</button>
+  </form>
+</section>
+
+<section class="vendors" id="vendors">
+  <h2>Are You a Vendor or Purohit?</h2>
+  <p>
+    Join our marketplace and reach thousands of households
+    seeking authentic ritual products & services.
+  </p>
+  <a href="#" class="cta primary">Partner With Us</a>
+</section>
+
+<footer class="footer">
+  <p>© 2025 Rituals Made Easy</p>
+</footer>
+
+</body>
+</html>
